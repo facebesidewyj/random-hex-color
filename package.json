@@ -1,0 +1,24 @@
+{
+  "name": "random-hex-color",
+  "version": "1.0.0",
+  "description": "A tool that can generate random hexadecimal colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebesidewyj/random-hex-color.git"
+  },
+  "keywords": [
+    "color",
+    "random",
+    "hex"
+  ],
+  "author": "wangyijin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/facebesidewyj/random-hex-color/issues"
+  },
+  "homepage": "https://github.com/facebesidewyj/random-hex-color#readme"
+}
